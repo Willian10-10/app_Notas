@@ -1,0 +1,29 @@
+{
+    "MINERÍA DE DATOS": [
+        {
+            "titulo": "clase 4",
+            "tipo": "apunte",
+            "fecha": "04/09/2025",
+            "contenido": "# clase 4\n\n"
+        }
+    ],
+    "FINANZAS": [],
+    "INGLÉS INICIAL": [],
+    "PROBABILIDAD": [
+        {
+            "titulo": "pre-prueba",
+            "tipo": "apunte",
+            "fecha": "02/09/2025",
+            "contenido": "pre prueba de automotora, \n\nA) \n- como se calcula la probabilidad?\n\tprimero se deben sumas todos los datos de la FRECUENCIA para poder tener el 100 de ellos.\n\n- se saca, de la siguiente manera.\nvalor de la probabilidad osea \n=301/ y se coloca unos signos pesos entre ellas.\nosea B2/$B3$\n\nPROBABILIDAD ACUMULADA:\n\t- se saca la primera selda es tal cual, y las siguiente es la suma de la primera selda con la de abajoy y asi se va sacando la prob, acumulada, con una simple suma.\n\n\n\nB) valor esperado\n\nes el dato * la probabilidad de ocurrencia \n\"osea 0 autos vendidos * el % de la probalidad\"\nse hace lo mismo con todas la celdas. y el valor esperado es la suma de todos sus valores.\n\n\n\nD) cuando ente en geogebra, para obtener los valores esperados se hace los siguiente.\n\ncuando me diga, se escogen aleatoriamente 23 muestras de trsbajadores y no me da ninigun valor mas aparte del valor del dinero, solo me esta pidiendo el valor agregado que es el que esta en la parte superior, osea la \"U\" que aparece arriba.\n\n\n\n\n"
+        }
+    ],
+    "PROYECTO DE INTEGRACIÓN": [],
+    "SEGURIDAD DE INFORMACIÓN": [
+        {
+            "titulo": "clase 1",
+            "tipo": "apunte",
+            "fecha": "02/09/2025",
+            "contenido": "- que son los \"CIS\" control \n\n\t* estan diseñados para protegerse de siber hataque a control genera\nexiten 18 CIS CONTROL en total.\n\n\nanexo A:\n\t-  93 controles organizados en 4 categorias \n\n\n"
+        }
+    ]
+}

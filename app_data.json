@@ -1,0 +1,35 @@
+{
+    "notes": {
+        "MINERÍA DE DATOS": [
+            {
+                "titulo": "clad",
+                "tipo": "apunte",
+                "fecha": "04/09/2025",
+                "contenido": "# clad\n\n"
+            },
+            {
+                "titulo": "clase 4",
+                "tipo": "apunte",
+                "fecha": "04/09/2025",
+                "contenido": "# clase 4\n\n"
+            }
+        ],
+        "FINANZAS": [],
+        "INGLÉS INICIAL": [],
+        "PROBABILIDAD": [],
+        "PROYECTO DE INTEGRACIÓN": [],
+        "SEGURIDAD DE INFORMACIÓN": []
+    },
+    "exams": [
+        {
+            "nombre": "nota 1",
+            "fecha": "09/09/2025",
+            "ramo": "MINERÍA DE DATOS"
+        },
+        {
+            "nombre": "prueba 1 ",
+            "fecha": "20/09/2025",
+            "ramo": "FINANZAS"
+        }
+    ]
+}
