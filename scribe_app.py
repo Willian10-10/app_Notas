@@ -174,7 +174,7 @@ class SidebarFrame(ctk.CTkFrame):
     def __init__(self, parent, controller):
         super().__init__(parent, width=200, corner_radius=0, fg_color="#2B2B2B")
         self.controller = controller; self.buttons = {}
-        dashboard_button = ctk.CTkButton(self, text="🏠 Dashboard", anchor="w", fg_color="transparent", command=controller.show_dashboard_screen); dashboard_button.pack(fill="x", padx=10, pady=10)
+        dashboard_button = ctk.CTkButton(self, text="🏠 inicio", anchor="w", fg_color="transparent", command=controller.show_dashboard_screen); dashboard_button.pack(fill="x", padx=10, pady=10)
         ctk.CTkLabel(self, text="APUNTES").pack(fill="x", padx=10, pady=5)
         for ramo in ramos_data:
             btn = ctk.CTkButton(self, text=f"{ramo['icon']}  {ramo['nombre']}", anchor="w", fg_color="transparent", command=lambda r=ramo: self.controller.show_notes_screen(r)); btn.pack(fill="x", padx=10); self.buttons[ramo['nombre']] = btn
